@@ -28,7 +28,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  
- 🎂 27 Ans
+ 🎂 27 Ans <br/><br/>
  📧 mannoni.pa@gmail.com<br/><br/>
  🗺 Aubagne <br/><br/>
 
