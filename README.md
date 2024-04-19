@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <samp>
-    Je suis développeur back-end
+    Je suis développeur back-end, j'ai travaillé pendant plus d'un an sur du symfony et j'apprends désormais le C++.
   </samp>
 </p>
 
