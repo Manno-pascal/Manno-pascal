@@ -6,10 +6,11 @@
 
 
 <p align="center"> 
-  <samp>
+  <samp align="right">
     Je suis développeur back-end, j'ai travaillé pendant plus d'un an sur du symfony et j'apprends désormais le C++.
   </samp>
 </p>
+<br>
 
 <p align="center">
  <!--<a href="https://Manno-pascal.com" target="blank">
@@ -23,12 +24,12 @@
 
 <!-- About Section -->
  # About me
- 
+ <img  align="right" width="200"  src="https://sdk.bitmoji.com/render/panel/10207747-103143499080_1-s5-v1.png?transparent=1&palette=1&scale=2">
 <p>
+        <br/><br/>
  🎂 27 Ans <br/><br/>
  📧 mannoni.pa@gmail.com<br/><br/>
  🗺 Aubagne <br/><br/>
-
 </p>
 
 
@@ -80,4 +81,4 @@
   <a href="https://github.com/Manno-pascal"><img alt="Manno-pascal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Manno-pascal&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-<p>Credit to <a href="https://github.com/Manno-pascal">Al siam<a></p>
+<p>Credit to <a href="https://github.com/alsiam">Al siam<a></p>
