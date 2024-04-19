@@ -24,7 +24,7 @@
 
 <!-- About Section -->
  # About me
- <img  align="right" width="200"  src="https://sdk.bitmoji.com/render/panel/10207747-103143499080_1-s5-v1.png?transparent=1&palette=1&scale=2">
+ <img  align="right" width="200"  src="/assets/waving.png">
 <p>
         <br/><br/>
  🎂 27 Ans <br/><br/>
