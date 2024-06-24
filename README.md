@@ -13,9 +13,9 @@
 <br>
 
 <p align="center">
- <!--<a href="https://Manno-pascal.com" target="blank">
+ <a href="https://github.com/Manno-pascal/portfolio_jeu" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Manno-pascal" />
- </a> -->
+ </a>
  <a href="https://www.linkedin.com/in/pascal-mannoni/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Manno-pascal"/>
  </a>
@@ -55,7 +55,7 @@
 
 ## Projects
 [![Snorri](https://github-readme-stats.vercel.app/api/pin/?username=Manno-pascal&repo=projet_Snorri&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Manno-pascal/projet_Snorri)
-
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Manno-pascal&repo=Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Manno-pascal/portfolio_jeu)
 <p align="left">
   <a href="https://github.com/Manno-pascal?tab=repositories" target="_blank"><img alt="Autres repos" title="Autres repos" src="https://img.shields.io/badge/Autres%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
