@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
- <a href="https://github.com/Manno-pascal/portfolio_jeu" target="blank">
+ <a href="https://manno-pascal.github.io/portfolio_jeu/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Manno-pascal" />
  </a>
  <a href="https://www.linkedin.com/in/pascal-mannoni/" target="_blank">
